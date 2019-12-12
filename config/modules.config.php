@@ -31,4 +31,5 @@ return [
     'Midnet',
     'Report',
     'User',
+    'Employee',
 ];

@@ -30,7 +30,8 @@
 			"Annotation\\" : "module/Annotation/src",
 			"Midnet\\" : "module/Midnet/src",
 			"Report\\" : "module/Report/src",
-			"User\\" : "module/User/src"
+			"User\\" : "module/User/src",
+			"Employee\\" : "module/Employee/src"
 		}
 	},
 	"scripts" : {
